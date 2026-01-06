@@ -5,7 +5,7 @@ from PIL import Image, ImageTk, ImageEnhance
 from io import BytesIO
 
 # ---------- CONSTANTS ----------
-FOOTER_IMAGE_PATH = "/Users/eithanenaje/Downloads/International_Pokémon_logo.svg.png"
+FOOTER_IMAGE_PATH = "International_Pokémon_logo.svg.png"
 URL = "https://pokeapi.co/api/v2/pokemon/"
 
 TYPE_CHART = {
